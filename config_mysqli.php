@@ -1,9 +1,9 @@
 <?php
 // *** แก้ค่าตามเครื่องคุณ ***
-const DB_HOST = '127.0.0.1';
-const DB_NAME = 'myapp';
-const DB_USER = 'root';
-const DB_PASS = 'root_password';
+const DB_HOST = '';
+const DB_NAME = '';
+const DB_USER = '';
+const DB_PASS = '';
 const DB_CHARSET = 'utf8mb4';
 
 // ตั้งค่า session ให้ปลอดภัยขึ้น
